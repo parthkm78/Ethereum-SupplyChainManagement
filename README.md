@@ -47,8 +47,8 @@ Note : Truffle will compile and deploy the contracts, with their addresses to th
 Take note of the ChangeOwnership and ProductManagement addresses and replace the values on "web/js/utils.js".
 The parts you need to change are:
 
-            window.pm.options.address = '0xE59871XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8A70'
-            window.co.options.address = "0x5F064ECXXXXXXXXXXXXXXXXXXXXXXXXXXXXXd000"
+    window.pm.options.address = '0xE59871XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8A70'
+    window.co.options.address = "0x5F064ECXXXXXXXXXXXXXXXXXXXXXXXXXXXXXd000"
 
     -----------------------------------
     Ex: I run truffle migrate --reset
@@ -74,7 +74,7 @@ The parts you need to change are:
 
 Deploy Project on server, here i used http-server
 
-Go to *./Web * folder and run command : http-server 
+Go to ./Web  folder and run command : http-server 
 
 It will deploy project. Default port is 8080.
 
