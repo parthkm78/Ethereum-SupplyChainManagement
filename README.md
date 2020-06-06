@@ -50,26 +50,26 @@ The parts you need to change are:
             window.pm.options.address = '0xE59871XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8A70'
             window.co.options.address = "0x5F064ECXXXXXXXXXXXXXXXXXXXXXXXXXXXXXd000"
 
------------------------------------
-Ex: I run truffle migrate --reset
-i got bellow output,
-Replacing 'ProductManagement'
-   -----------------------------
-   > transaction hash:    0x834568174cde8e4397d3ec0302e4049f0615eb94dc9d320961a550e1dc30c4fa
-   > Blocks: 0            Seconds: 0
-   > contract address:    0x670362E84B140F0d67581293e14e329566eE9714
-   .....
+    -----------------------------------
+    Ex: I run truffle migrate --reset
+    i got bellow output,
+    Replacing 'ProductManagement'
+       -----------------------------
+       > transaction hash:    0x834568174cde8e4397d3ec0302e4049f0615eb94dc9d320961a550e1dc30c4fa
+       > Blocks: 0            Seconds: 0
+       > contract address:    0x670362E84B140F0d67581293e14e329566eE9714
+       .....
 
 
-   Replacing 'ChangeOwnership'
-   ---------------------------
-   > transaction hash:    0xd4af42db6c955924f836958e6a06a3fd0da73b559f834ecf2ea20ed15b7f1a20
-   > Blocks: 0            Seconds: 0
-   > contract address:    0x356322d3697275919831fEB0cf6959e86f4FbEe2
+       Replacing 'ChangeOwnership'
+       ---------------------------
+       > transaction hash:    0xd4af42db6c955924f836958e6a06a3fd0da73b559f834ecf2ea20ed15b7f1a20
+       > Blocks: 0            Seconds: 0
+       > contract address:    0x356322d3697275919831fEB0cf6959e86f4FbEe2
 
-   ......
+       ......
 
-   Use : Contact address & Replace
+       Use : Contact address & Replace
 ------------------------------------     
 
 Deploy Project on server, here i used http-server
