@@ -50,7 +50,7 @@ The parts you need to change are:
             window.pm.options.address = '0xE59871XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8A70'
             window.co.options.address = "0x5F064ECXXXXXXXXXXXXXXXXXXXXXXXXXXXXXd000"
 
-**************************************************
+-----------------------------------
 Ex: I run truffle migrate --reset
 i got bellow output,
 Replacing 'ProductManagement'
@@ -70,9 +70,9 @@ Replacing 'ProductManagement'
    ......
 
    Use : Contact address & Replace
-************************************************      
+------------------------------------     
 
-Deploy Projct on server, here i used http-server
+Deploy Project on server, here i used http-server
 
 Go to ./Web folder and run command : http-server 
 
@@ -80,7 +80,7 @@ It will deploy project. Default port is 8080.
 
 Go to browser and  type localhost:8080in url to check application is running.
 
-User Guide: Follow SupplyChainManagement_User_Guide.docx
+*User Guide: Follow SupplyChainManagement_User_Guide.docx
 
 
 ## References
