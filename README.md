@@ -74,14 +74,13 @@ The parts you need to change are:
 
 Deploy Project on server, here i used http-server
 
-Go to ./Web folder and run command : http-server 
+Go to *./Web * folder and run command : http-server 
 
 It will deploy project. Default port is 8080.
 
-Go to browser and  type localhost:8080in url to check application is running.
+Go to browser and  type localhost:8080 as url to check application is running.
 
 *User Guide: Follow SupplyChainManagement_User_Guide.docx
-
 
 ## References
 
