@@ -52,7 +52,7 @@ The parts you need to change are:
 
     -----------------------------------
     Ex: I run truffle migrate --reset
-    i got bellow output,
+    I got bellow output,
     Replacing 'ProductManagement'
        -----------------------------
        > transaction hash:    0x834568174cde8e4397d3ec0302e4049f0615eb94dc9d320961a550e1dc30c4fa
@@ -69,7 +69,7 @@ The parts you need to change are:
 
        ......
 
-       Use : Contact address & Replace
+       Take value of Contact address key & Replace in file
 ------------------------------------     
 
 Deploy Project on server, here i used http-server
