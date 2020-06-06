@@ -1,0 +1,15 @@
+.border
+{
+    border: 2px solid rgba(0, 0, 0, 0.3);
+}
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+  }
+
+  .content {
+    display: inline-block;
+    text-align: center;
+  }
