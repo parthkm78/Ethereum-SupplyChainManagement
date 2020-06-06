@@ -8,6 +8,7 @@ Project :
  functionalities: It record all the transection on ethereum network and fetch detail from network.
     Smart Contract:
         It has two Smart Contracts:
+        
             * ProductManagement - It will Register products with data
             * ChangeOwnership - It tracks owneship.
 
